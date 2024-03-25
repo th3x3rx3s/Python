@@ -1,4 +1,4 @@
-beautifulsoup4==4.9.3
-bs4==0.0.1
-phonenumbers==8.12.29
-googlesearch-python==1.0.1
+beautifulsoup4
+bs4
+phonenumbers
+googlesearch-python
