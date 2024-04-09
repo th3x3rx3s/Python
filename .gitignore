@@ -1,3 +1,4 @@
+
 /.venv
 /Batch
 /Html
@@ -10,18 +11,18 @@
 /chatbot/
 /discord-bot/
 /email_slicer/
-/'file sorting'/
-/'info vizsga'/
-/'infoism_maj23'/
-/'number guess'/
+/file sorting/
+/info vizsga/
+/infoism_maj23/
+/number guess/
 /openai_text/
 /py_youtube_mp3/
 /shodan/
-/'tic tac toe'/
-/'Tkinter app'/__pycache__/
-/'Tkinter app'/constants.py
-/'Tkinter app'/r.py
-/'Tkinter app'/test.py
+/tic tac toe/
+/Tkinter app/__pycache__/
+/Tkinter app/constants.py
+/Tkinter app/r.py
+/Tkinter app/test.py
 /tomasz doga gyakorlás/
 /turtle/
 /web scraper/
@@ -32,4 +33,7 @@
 /tomaszdoga.py 
 /tomaszdogafuggvenyek.py 
 /tomaszdogarómai.py
-szamok.txt
+/szamok.txt
+kpo/
+face recognition/
+
